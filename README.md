@@ -82,13 +82,19 @@ endmodule
  Developed by:Samantha shree SV RegisterNumber: 25017585
  
 **Logic symbol & Truthtable**
-<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/9dfb90fe-2811-40a3-8d09-8844fe02bc1d" />
+
+
+![WhatsApp Image 2025-11-12 at 10 46 53_5775dbfd](https://github.com/user-attachments/assets/b7b8231c-4566-492a-b334-bd78f041d239)
+
 
 **RTL realization Output:** 
 <img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/e9215a0c-16db-45ba-9993-688cd96db3b2" />
 
 **RTL**
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/9dfb90fe-2811-40a3-8d09-8844fe02bc1d" />
+
 
 **Result:**
+Thus the truth table ofthe logical gate is ezxecuted successfully.
 
 
