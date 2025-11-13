@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Study-of-basic-gates
 
 **AIM:** 
 
@@ -63,14 +63,29 @@ Y= A⊕B
 
 
 **PROGRAM**
+EXPERIMENT 1:
+LOGIC GATES
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+GATE LEVEL MODEL:
+module DEE1(a,b,c1,c2,c3,c4,c5,c6,c7);
+input a,b;
+output c1,c2,c3,c4,c5,c6,c7;
+not g1(c1,a);
+and g2(c2,a,b);
+or g3(c3,a,b);
+nand g4(c4,a,b);
+nor g5(c5,a,b);
+xor g6(c6,a,b);
+xnor g7(c7,a,b);
+endmodule
 
- Developed by: RegisterNumber: 
+ Developed by:Samantha shree SV RegisterNumber: 25017585
  
 **Logic symbol & Truthtable**
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/9dfb90fe-2811-40a3-8d09-8844fe02bc1d" />
 
 **RTL realization Output:** 
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/e9215a0c-16db-45ba-9993-688cd96db3b2" />
 
 **RTL**
 
