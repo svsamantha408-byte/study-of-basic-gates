@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
 EXPERIMENT 1:
 LOGIC GATES
 
@@ -78,7 +79,7 @@ nor g5(c5,a,b);
 xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
-
+```
  Developed by:Samantha shree SV RegisterNumber: 25017585
  
 **Logic symbol & Truthtable**
